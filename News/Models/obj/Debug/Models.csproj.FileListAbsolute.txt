@@ -1,0 +1,12 @@
+C:\Users\chori\Desktop\Shufersal\News\Models\bin\Debug\Models.dll
+C:\Users\chori\Desktop\Shufersal\News\Models\bin\Debug\Models.pdb
+C:\Users\chori\Desktop\Shufersal\News\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\chori\Desktop\Shufersal\News\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\chori\Desktop\Shufersal\News\Models\obj\Debug\Models.dll
+C:\Users\chori\Desktop\Shufersal\News\Models\obj\Debug\Models.pdb
+D:\Shufersal\News\Models\bin\Debug\Models.dll
+D:\Shufersal\News\Models\bin\Debug\Models.pdb
+D:\Shufersal\News\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Shufersal\News\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Shufersal\News\Models\obj\Debug\Models.dll
+D:\Shufersal\News\Models\obj\Debug\Models.pdb

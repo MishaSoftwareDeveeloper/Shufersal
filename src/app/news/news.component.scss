@@ -1,0 +1,60 @@
+.news{
+    direction: rtl;
+    .title{
+        text-align: center;
+        padding: 20px;
+        &>h3:first-child{
+            font-size: 30px;
+            font-weight: bold;
+        }
+    }
+    .content{
+        display: flex;
+        align-items: flex-start;
+        ul{
+            list-style-type: none;
+            li{
+                padding: 15px 0;
+                :hover{
+                    cursor: pointer;
+                }
+                
+            }
+            .selected{
+                color:blue;
+            }
+        }
+        .left-side{
+            margin: 18px 100px auto auto;
+          
+            max-width: 1000px;
+            &>h4:first-child{
+                font-size: 26px;
+                text-align: center;
+                color:red;
+                max-width: 600px;
+                margin: auto;
+            }
+            a{
+                text-decoration: none;
+                color: darkblue;
+                font-size: 18px;
+                font-weight: 600;
+            }
+
+        }
+     
+    }
+
+    .btn{
+        background-color: greenyellow;
+     
+        height: 25px;
+        border-radius: 6px;
+        font-size: 18px;
+        &:hover{
+            cursor: pointer;
+        }
+    }
+
+}
